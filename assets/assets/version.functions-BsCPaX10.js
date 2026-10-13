@@ -1,0 +1,1 @@
+import{p as e,t}from"./createServerFn-W5z9Gh-_.js";var n=t({method:`GET`}).handler(e(`719bf3d103e937c398c4b317815ccf6067df4ad7edf728a4e224b8d1a4964ba5`));async function r(){try{let e=await n();return typeof e==`string`&&e.length>0?e:null}catch{return null}}export{r as t};
